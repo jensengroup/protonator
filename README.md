@@ -1,2 +1,2 @@
-# protonator
-Quick and dirty protonation
+# Protonator
+Quick and dirty protonation while you wait
